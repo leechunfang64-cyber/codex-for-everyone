@@ -1,0 +1,24 @@
+{
+  "name": "codex-for-everyone",
+  "version": "1.0.0",
+  "description": "A practical handbook for OpenAI Codex workflows, prompts, troubleshooting, and real-world AI coding cases for everyone.",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "dev": "vitepress dev .",
+    "build": "vitepress build .",
+    "preview": "vitepress preview ."
+  },
+  "keywords": [
+    "openai",
+    "codex",
+    "ai-coding",
+    "vitepress",
+    "handbook"
+  ],
+  "author": "",
+  "license": "CC-BY-NC-SA-4.0",
+  "devDependencies": {
+    "vitepress": "^2.0.0-alpha.17"
+  }
+}
